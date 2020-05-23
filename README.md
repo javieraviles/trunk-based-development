@@ -28,6 +28,6 @@ All involved branches are pushed and left untouched so the exercise looks as cle
 ### Release 0.2.0
 - New Feature 2 [PR#2](https://github.com/javieraviles/fj.aviles.2019-tbd/pull/2)
 ### Release 0.2.1
-- Fix for Feature 2 bug
+- Fix for Feature 2 bug [PR#2](https://github.com/javieraviles/fj.aviles.2019-tbd/pull/3)
 ### Release 1.0.0
 - New feature 3
